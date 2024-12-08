@@ -15,4 +15,10 @@ nix_fails_to_find_git on  main via ❄️  impure (nix-shell-env)
 nix (Nix) 2.18.2
 
 nix_fails_to_find_git on  main via ❄️  impure (nix-shell-env)
+❯ which git
+/usr/bin/git
+
+nix_fails_to_find_git on  main via ❄️  impure (nix-shell-env)
+❯ git status
+error: tool 'git' not found
 ```
