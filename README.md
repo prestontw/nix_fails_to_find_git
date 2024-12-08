@@ -30,3 +30,10 @@ MacOS version: `14.6 (23G80)`
 - https://github.com/NixOS/nixpkgs/issues/355486
 
 - https://github.com/NixOS/nixpkgs/pull/357132
+
+### Resolutions
+
+```
+sudo xcode-select --reset
+sudo xcode-select --install
+```
