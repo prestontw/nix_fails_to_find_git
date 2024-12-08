@@ -22,3 +22,11 @@ nix_fails_to_find_git on  main via ❄️  impure (nix-shell-env)
 ❯ git status
 error: tool 'git' not found
 ```
+
+MacOS version: `14.6 (23G80)`
+
+### GitHub links
+
+- https://github.com/NixOS/nixpkgs/issues/355486
+
+- https://github.com/NixOS/nixpkgs/pull/357132
