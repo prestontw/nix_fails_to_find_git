@@ -123,3 +123,14 @@ On branch main
 Your branch is ahead of 'origin/main' by 2 commits.
 ...
 ```
+
+--------
+
+### Final resolution
+
+```
+sudo xcode-select --reset
+sudo xcode-select --switch /Library/Developer/CommandLineTools
+```
+
+I ran this from inside of a `nix develop` environment---I don't know if that matters or not.
